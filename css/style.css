@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0
 }
-#pixie {
+#pixie h1{
     position:fixed;
     background-color: #164979;
     width:100%;
