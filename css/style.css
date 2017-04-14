@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0
 }
-#pixie h1{
+#pixie {
     position:fixed;
     background-color: #164979;
     width:100%;
@@ -23,4 +23,8 @@ body {
     /* Chrome 26, Firefox 16+, IE 10+, Opera 12.10+ */
     margin:0;
     padding:0;
+}
+h1{
+    background-color:#164979;
+    text-align:center;
 }
