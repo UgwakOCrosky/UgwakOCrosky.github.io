@@ -1537,7 +1537,9 @@ body.mobile .animated {
 	}
 
 }
-
+.img-responsive{
+	border-radius: 5px;
+}
 
 
 
